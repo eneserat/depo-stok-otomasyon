@@ -1,0 +1,29 @@
+<svg width="640" height="320" viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00b09b"/>
+            <stop offset="100%" stop-color="#96c93d"/>
+        </linearGradient>
+        <linearGradient id="panel" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0.75"/>
+        </linearGradient>
+    </defs>
+    <rect width="640" height="320" rx="32" fill="url(#bg)"/>
+    <circle cx="540" cy="60" r="90" fill="rgba(255,255,255,0.08)"/>
+    <circle cx="80" cy="40" r="60" fill="rgba(255,255,255,0.08)"/>
+    <rect x="80" y="90" width="480" height="180" rx="24" fill="url(#panel)"/>
+    <g fill="#0d6efd">
+        <rect x="120" y="130" width="80" height="70" rx="18" fill="#0d6efd" opacity="0.85"/>
+        <rect x="220" y="130" width="80" height="120" rx="18" fill="#6610f2" opacity="0.85"/>
+        <rect x="320" y="130" width="80" height="95" rx="18" fill="#20c997" opacity="0.85"/>
+        <rect x="420" y="130" width="80" height="60" rx="18" fill="#fd7e14" opacity="0.85"/>
+    </g>
+    <g stroke="#0d6efd" stroke-width="6" fill="none" opacity="0.6">
+        <path d="M120 230C200 270 260 210 320 230C380 250 440 200 520 220" stroke="#20c997" stroke-linecap="round"/>
+        <path d="M120 250C200 210 260 250 320 205C380 160 440 240 520 190" stroke="#6610f2" stroke-linecap="round"/>
+    </g>
+    <text x="100" y="70" font-size="28" fill="#fff" font-family="Arial, sans-serif" font-weight="600">Depo Performansı</text>
+    <text x="100" y="320" font-size="14" fill="#ffffffaa" font-family="Arial, sans-serif">Stok giriş-çıkış trafiği ve KPI özetten animasyon</text>
+</svg>
+

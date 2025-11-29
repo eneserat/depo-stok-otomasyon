@@ -77,15 +77,6 @@ Proje Sahibi: Eşref Enes Erat
 
 
 
-## Kullanım
-
-Ürün Ekle: Yeni ürün, stok ve kategori bilgilerini girin
-
-Stok Güncelle: Mevcut ürünlerin stok miktarını güncelleyin
-
-Raporlar: Tarih ve kategori bazlı stok durumlarını görüntüleyin
-
-Kullanıcı Yönetimi: Personel ekleme ve yetkilendirme
 
 
 

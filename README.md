@@ -79,7 +79,8 @@ Proje Sahibi: Eşref Enes Erat
 
 Örnek Ekran Görüntüleri 
 
-<img width="1904" height="911" alt="Ekran görüntüsü 2025-11-28 131239" src="https://github.com/user-attachments/assets/e0a9f54c-1028-43c6-92f1-f81581dc1bc2" />
+![Ana Panel](https://github.com/user-attachments/assets/e0a9f54c-1028-43c6-92f1-f81581dc1bc2)
+
 <img width="1322" height="710" alt="Ekran görüntüsü 2025-11-29 201640" src="https://github.com/user-attachments/assets/f3d0eaec-c43c-46cc-9cba-e2cbb2ddbea4" />
 <img width="1904" height="797" alt="Ekran görüntüsü 2025-11-29 201700" src="https://github.com/user-attachments/assets/a313608e-7f02-410a-9415-93bf4f36bece" />
 <img width="920" height="753" alt="Ekran görüntüsü 2025-11-29 201716" src="https://github.com/user-attachments/assets/6cce01a6-f8a0-4d88-af28-61abb0a72744" />
